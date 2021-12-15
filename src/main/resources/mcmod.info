@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "kotlin",
+    "name": "Kotlin",
+    "description": "Enable Kotlin features on Minecraft 1.12.2",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://github.com/dayo05",
+    "updateUrl": "",
+    "authorList": [
+      "Dayo"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
